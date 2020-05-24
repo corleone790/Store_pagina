@@ -1,2 +1,1 @@
-# Store_pagina
-Pagina Store
+# Pagina Terminada
